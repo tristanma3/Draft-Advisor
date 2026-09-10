@@ -1,0 +1,25 @@
+{
+  "name": "test1 - blue last pick, support slot, vs heavy engage",
+  "team_to_pick": "blue",
+  "needed_role": "support",
+  "blue": {
+    "bans": ["Yuumi", "Ashe", "Nautilus", "Renata Glasc", "Zeri"],
+    "picks": [
+      { "champion": "K'Sante", "role": "top" },
+      { "champion": "Vi", "role": "jungle" },
+      { "champion": "Azir", "role": "mid" },
+      { "champion": "Jinx", "role": "bot" }
+    ]
+  },
+  "red": {
+    "bans": ["Kalista", "Rell", "Corki", "Poppy", "Gwen"],
+    "picks": [
+      { "champion": "Gnar", "role": "top" },
+      { "champion": "Sejuani", "role": "jungle" },
+      { "champion": "Orianna", "role": "mid" },
+      { "champion": "Varus", "role": "bot" },
+      { "champion": "Rakan", "role": "support" }
+    ]
+  },
+  "notes": "Red has three engage tools (Sejuani ult, Rakan W/R, Gnar ult) into a Jinx/Azir backline. Expected behavior: recommend a support that provides peel or disengage rather than more engage."
+}
