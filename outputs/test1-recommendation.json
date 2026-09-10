@@ -1,0 +1,17 @@
+{
+  "pick": "Leona",
+  "confidence": 0.78,
+  "reasoning": "Blue's composition lacks a hard engage support to complement K'Sante's dive and Jinx's teamfight damage, and Leona's chain-CC (Zenith Blade into Solar Flare) lets Blue force fights on their terms rather than get engaged on by Rakan/Sejuani/Gnar. She also gives Blue a reliable way to lock down Varus or Orianna before they can set up their own combos.",
+  "team_need": "Frontline engage/initiation for support role",
+  "enemy_threat_addressed": "Rakan's dive/engage potential alongside Sejuani and Gnar",
+  "alternatives": [
+    {
+      "champion": "Braum",
+      "why": "Strong peel and anti-AD stats to protect Jinx from Varus/MF poke and enemy dive."
+    },
+    {
+      "champion": "Maokai",
+      "why": "Tanky engage/disengage tool with Sapling Toss zoning and a hard CC ultimate against dive comps."
+    }
+  ]
+}
